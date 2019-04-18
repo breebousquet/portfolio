@@ -6,7 +6,7 @@ Website Speed Test
 http://webpagetest.org/result/190402_EB_9d98e70e2f44541f7e3dd13653a5bdcc/
 
 validator
-https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmccormack.github.io%2Fmrm-portfolio%2F
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fbreebousquet.github.io%2Fportfolio%2Findex.html
 
 LinkedIn
 https://www.linkedin.com/in/bree-bousquet/
